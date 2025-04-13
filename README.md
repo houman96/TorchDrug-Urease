@@ -62,6 +62,16 @@ This project extensively utilizes TorchDrug's capabilities for molecular graph g
 - TorchDrug Molecule Generation Tutorial: [https://torchdrug.ai/docs/tutorials/generation.html](https://torchdrug.ai/docs/tutorials/generation.html)
 - BindingDB Information: [https://www.bindingdb.org/bind/info.jsp](https://www.bindingdb.org/bind/info.jsp)
 
+## Recombination
+
+The model file is split into multiple parts to keep the size under 25 MB for upload constraints.
+
+### Recombine on Linux:
+```bash
+cat Urease_GCPN_v5.part01 Urease_GCPN_v5.part02 > Urease_GCPN_v5_full.zip
+unzip Urease_GCPN_v5_full.zip
+```
+
 ## License
 
 This project is licensed under the Apache License 2.0.
