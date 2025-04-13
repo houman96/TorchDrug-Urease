@@ -58,7 +58,7 @@ This project extensively utilizes TorchDrug's capabilities for molecular graph g
 
 ## References
 
-- Houman, et al. "Design, Synthesis, and Biological Evaluation of Novel Urease Inhibitors." *ACS Omega*, 2022. [https://pubs.acs.org/doi/full/10.1021/acsomega.2c01028](https://pubs.acs.org/doi/full/10.1021/acsomega.2c01028)
+- Kazemzadeh, et al. "Design, Synthesis, and Biological Evaluation of Novel Urease Inhibitors." *ACS Omega*, 2022. [https://pubs.acs.org/doi/full/10.1021/acsomega.2c01028](https://pubs.acs.org/doi/full/10.1021/acsomega.2c01028)
 - TorchDrug Molecule Generation Tutorial: [https://torchdrug.ai/docs/tutorials/generation.html](https://torchdrug.ai/docs/tutorials/generation.html)
 - BindingDB Information: [https://www.bindingdb.org/bind/info.jsp](https://www.bindingdb.org/bind/info.jsp)
 
